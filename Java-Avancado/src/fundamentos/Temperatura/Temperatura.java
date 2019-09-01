@@ -11,8 +11,6 @@ public class Temperatura {
 		c.printaCel();
 		c.calculaFah(26);
 		c.printaFah();
-		c.printaFah();
-		
 
 	}
 }
