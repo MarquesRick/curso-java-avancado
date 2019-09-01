@@ -26,7 +26,7 @@ public class DesafioConversao {
 		
 		media = ((valor1 + valor2 + valor3) / 3);
 		
-		System.out.println("Media dos salários é = " + 	media);
+		System.out.println("Media dos salï¿½rios ï¿½ = " + 	media);
 		
 		scanner.close();
 		
