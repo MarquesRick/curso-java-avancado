@@ -12,6 +12,7 @@ public class Temperatura {
 		c.calculaFah(26);
 		c.printaFah();
 		c.printaFah();
+		System.out.print("Teste Git para Eclipse");
 		
 
 	}
