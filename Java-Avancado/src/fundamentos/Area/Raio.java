@@ -21,7 +21,7 @@ public class Raio {
 	}
 	
 	public void printarTela(){
-		System.out.println("?rea ?: " + formatador.format(area) + " m2.");
+		System.out.println("Área ?: " + formatador.format(area) + " m2.");
 	}
 	
 }
