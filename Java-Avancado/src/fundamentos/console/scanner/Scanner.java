@@ -9,9 +9,6 @@ public class Scanner {
 		j.getNota(30, 20);
 		//j.getSoma();
 		j.getDadosFinais();
-		
-	
-		
-		
+		          System.out.println("teste");
 	}
 }
