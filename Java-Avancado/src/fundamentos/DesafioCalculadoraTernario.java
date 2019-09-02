@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class DesafioCalculadora {
+public class DesafioCalculadoraTernario {
     public static void main(String[] args) {
         
         /*
@@ -8,7 +8,7 @@ public class DesafioCalculadora {
         * ler num2
         * + - * / %
         */ 
-        DesafioCalculadoraClass j = new DesafioCalculadoraClass();
+        DesafioCalculadoraTernarioClass j = new DesafioCalculadoraTernarioClass();
         j.getResposta();
         j.getAction();
         j.showResultado();
