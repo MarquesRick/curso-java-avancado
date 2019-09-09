@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JoptionPane",
+            "request": "launch",
+            "mainClass": "fundamentos.console.joptionpane.JoptionPane",
+            "projectName": "Java-Avancado"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DesafioCalculadora",
+            "request": "launch",
+            "mainClass": "fundamentos.DesafioCalculadora",
+            "projectName": "Java-Avancado"
+        }
+    ]
+}

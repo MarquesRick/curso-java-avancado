@@ -31,11 +31,11 @@ public class JoptionPaneClass {
 	public void getResultado(){
 		
 		resultado = Double.toString(media);
-		resposta = JOptionPane.showConfirmDialog(null, "A m?dia ?: " + resultado + "?");
+		resposta = JOptionPane.showConfirmDialog(null, "A media eh: " + resultado + "?");
 		if(resposta == JOptionPane.YES_OPTION){
-			JOptionPane.showMessageDialog(null, "A m?dia ?: " + resultado);
+			JOptionPane.showMessageDialog(null, "A media eh: " + resultado);
 		} else{
-			JOptionPane.showMessageDialog(null, "A m?dia n?o ? " + resultado);
+			JOptionPane.showMessageDialog(null, "A media nao eh: ? " + resultado);
 		}
 	    
 	}
