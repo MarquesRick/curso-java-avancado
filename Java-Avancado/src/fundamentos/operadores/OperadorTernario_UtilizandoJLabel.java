@@ -23,6 +23,7 @@ public class OperadorTernario_UtilizandoJLabel {
 		resultado.setFont(big);
 		resultado.setPreferredSize(new Dimension(40,40));
 		JOptionPane.showMessageDialog(null, resultado);
+		JOptionPane.showMessageDialog(null, resultado);
 		
 		
 		
