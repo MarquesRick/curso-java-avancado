@@ -8,7 +8,7 @@ public class Console {
 	public static void main(String[] args) {
 		
 		Calendar calendario = Calendar.getInstance();
-		Scanner entrada = new Scanner(System.in);
+		Scanner entrada = new Scanner(System.in); //keyboard input system
 		
 		
 		System.out.println("Entre com nome: ");

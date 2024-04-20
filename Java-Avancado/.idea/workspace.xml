@@ -4,13 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="190a43df-917c-4f4a-b316-fbd385a028e9" name="Changes" comment="change old code">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="190a43df-917c-4f4a-b316-fbd385a028e9" name="Changes" comment="change gitignore">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ExerciseForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/LabeledBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/DesafioConversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/DesafioConversao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/DesafioOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/DesafioOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/console/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/console/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/operadores/OperadorTernario_UtilizandoJLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/OperadorTernario_UtilizandoJLabel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -27,10 +46,16 @@
     "accountId": "c7c667db-78f4-48eb-8006-9f86b70d7145"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2fKpV320lLMjm9qN0X9CdjmzVmT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +64,13 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.AreaCircunferencia.executor": "Run",
+    "Application.Console.executor": "Run",
+    "Application.DesafioConversao.executor": "Run",
+    "Application.Exercise.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.JoptionPane.executor": "Run",
+    "Application.LabeledBreak.executor": "Run",
+    "Application.OperadorTernario_UtilizandoJLabel.executor": "Run",
     "Application.PrimeiroPrograma.executor": "Run",
     "Application.Temperatura.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,12 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713561589054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change gitignore">
+      <option name="closed" value="true" />
+      <created>1713561714790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713561714791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="import code in intelliJ" />
     <MESSAGE value="change old code" />
-    <option name="LAST_COMMIT_MESSAGE" value="change old code" />
+    <MESSAGE value="change gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="change gitignore" />
   </component>
 </project>

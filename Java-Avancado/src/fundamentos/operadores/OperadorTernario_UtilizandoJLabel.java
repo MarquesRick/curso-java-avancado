@@ -11,7 +11,7 @@ public class OperadorTernario_UtilizandoJLabel {
 	
 	public static void main(String[] args) {
 		
-		String nota = JOptionPane.showInputDialog("Insira a média");
+		String nota = JOptionPane.showInputDialog("Insira a media");
 		double media = Double.parseDouble(nota);
 		JLabel resultado = new JLabel(media >= 5.0 ? "Aprovado" : "Reprovado");
 		

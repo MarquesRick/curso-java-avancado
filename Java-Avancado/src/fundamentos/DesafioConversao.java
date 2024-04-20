@@ -1,11 +1,13 @@
 package fundamentos;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class DesafioConversao {
 
 	public static void main(String[] args) {
-		
+		//Locale.setDefault(new Locale("en", "US")); //set locale in your SO
+		System.out.printf("your current locale is: %s \n", Locale.getDefault());
 		Scanner scanner = new Scanner(System.in);
 		
 		String salario1;

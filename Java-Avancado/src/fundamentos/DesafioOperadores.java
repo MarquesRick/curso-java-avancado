@@ -17,7 +17,7 @@ public class DesafioOperadores {
         double inferior = Math.pow(10, 3);
 
         double resultado = superior / inferior;
-        System.out.println("O resultado é: " + resultado);
+        System.out.println("O resultado eh: " + resultado);
 
     }
 
